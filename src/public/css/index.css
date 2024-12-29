@@ -8,7 +8,7 @@
     max-width: 1230px;
 }
 
-.header_logo {
+.header__logo {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
@@ -21,7 +21,7 @@
     max-width: 1230px;
 }
 
-.contact-form_heading {
+.contact-form__heading {
     margin-bottom: 40px;
     text-align: center;
 }
@@ -70,7 +70,7 @@
     margin-top: 30px;
 }
 
-.form_button-submit {
+.form__button-submit {
     padding: 10px;
     width: 30%;
     height: 50px;
